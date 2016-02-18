@@ -35,12 +35,12 @@
 		<property name="password"><value>${password}</value></property>
 		-->
 	    <property name="driverClass"><value>com.mysql.jdbc.Driver</value></property>
-		<!--<property name="jdbcUrl"><value>jdbc:mysql://localhost:3306/videomgr?characterEncoding=utf-8</value></property>
+		<property name="jdbcUrl"><value>jdbc:mysql://localhost:3306/archetype?characterEncoding=utf-8</value></property>
 		<property name="user"><value>admin</value></property>
-		<property name="password"><value>admin</value></property>-->
-		<property name="jdbcUrl"><value>jdbc:mysql://192.168.1.205:3306/videomgr?generateSimpleParameterMetadata=true</value></property>
+		<property name="password"><value>admin</value></property>
+		<!--<property name="jdbcUrl"><value>jdbc:mysql://192.168.1.205:3306/videomgr?generateSimpleParameterMetadata=true</value></property>
 		<property name="user"><value>azt</value></property>
-		<property name="password"><value>123456</value></property>
+		<property name="password"><value>123456</value></property>-->
 		<!--<property name="jdbcUrl"><value>jdbc:mysql://mysqlservices-sha.chinacloudapp.cn:3306/video9cooo?generateSimpleParameterMetadata=true</value></property>
 		<property name="user"><value>video9cooo%Azt_system</value></property>
 		<property name="password"><value>Azt@2015</value></property>-->
