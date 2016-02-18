@@ -9,5 +9,5 @@ import com.azt.base.dao.UserDao;
 public class UserDaoImpl implements UserDao {
 	@Autowired
 	private JdbcTemplate jdbcTemplate;
-	
+	    
 }
